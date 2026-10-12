@@ -23,7 +23,9 @@ def fizzbuzz(n):
         fizzbuzz(15) -> "FizzBuzz"
         fizzbuzz(7) -> "7"
     """
+
     # Реализовал(а): Andrey
+    # Реализовал(а): Саша
 
 def is_prime(n):
     i = 2
@@ -39,4 +41,4 @@ def is_prime(n):
         is_prime(9) -> False
         is_prime(1) -> False
     """
-    # Реализовал(а): Andrey
+    # Реализовал(а): Саша
